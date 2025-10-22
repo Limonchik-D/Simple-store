@@ -1,0 +1,8 @@
+{
+    "1": { "name": "Смартфон Samsung", "categoryCode": "1", "image": "smartphone.jpg" },
+    "2": { "name": "Ноутбук Apple", "categoryCode": "1", "image": "laptop.jpg" },
+    "3": { "name": "Футболка Nike", "categoryCode": "2", "image": "tshirt.jpg" },
+    "4": { "name": "Джинсы Levi's", "categoryCode": "2", "image": "jeans.jpg" },
+    "5": { "name": "Роман '1984'", "categoryCode": "3", "image": "book1984.jpg" },
+    "6": { "name": "Книга 'Грокаем алгоритмы'", "categoryCode": "3", "image": "algorithms.jpg" }
+}
